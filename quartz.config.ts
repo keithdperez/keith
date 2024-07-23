@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Keith Perez",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -39,14 +39,14 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
+          light: "#1e1e2e",
           lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          gray: "#6c7086",
+          darkgray: "#cdd6f4",
+          dark: "#f5e0dc",
+          secondary: "#89b4fa",
+          tertiary: "#89dceb",
+          highlight: "rgba(147, 153, 178, 0.15)",
           textHighlight: "#b3aa0288",
         },
       },
@@ -61,7 +61,7 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
-          dark: "github-dark",
+          dark: "catppuccin-mocha",
         },
         keepBackground: false,
       }),
@@ -72,7 +72,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.ExplicitPublish()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
