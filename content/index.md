@@ -1,7 +1,6 @@
 ---
-title: Welcome!
+title: Hey there! 👋 My name is Keith Perez.
 ---
-## Hi, I'm Keith!
 
 I'm a versatile and talented musician, actively involved in music production, graphic design, and exploring tech advancements. I run a service business named "then, create," focusing on event tech support. My mission is to enhance the financial success and operational efficiency of my business while serving others extensively.
 
