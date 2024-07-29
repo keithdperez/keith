@@ -1,8 +1,10 @@
 ---
-title: Monica Gonzalez Wedding
-publish: true
+id: Monica Gonzalez Wedding
+aliases: []
 tags:
   - thencreate
+publish: false
+title: Monica Gonzalez Wedding
 ---
 ## Info
 - Event at Chrystal Banquets, Lemont IL
