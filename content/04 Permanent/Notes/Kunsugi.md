@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Kunsugi
 publish: false
 tags:
 ---

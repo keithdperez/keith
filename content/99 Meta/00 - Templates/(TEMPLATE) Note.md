@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Slideshow
 date: {{date}}T{{time}}
 tags: []
 cssclasses: []

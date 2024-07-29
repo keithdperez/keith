@@ -1,8 +1,12 @@
 ---
 title: Hey there! 👋 My name is Keith Perez.
 ---
+---
+## Hi, I'm Keith!
 
-I'm a versatile and talented musician, actively involved in music production, graphic design, and exploring tech advancements. I run a service business named "then, create," focusing on event tech support. My mission is to enhance the financial success and operational efficiency of my business while serving others extensively.
+![[Profile Pic.jpeg]]
+
+I'm a versatile and talented musician, actively involved in music production, graphic design, and exploring tech advancements. As the audiovisual design lead at ThenCreate, I specialize in setting up and reconfiguring livestreams, refining tech methods, and innovating new ways to simplify and approach technology. My mission is to enhance the financial success and operational efficiency of my business while serving others extensively.
 
 ---
 
@@ -22,9 +26,22 @@ I lead worship at my church, recognized for my versatility and talent. My wife, 
 - Description: Leading worship services and training new worship leaders.
 - Link: [Learn More](link-to-project-2)
 
-### Project 3: Graphic Design
-- Description: Creating visually compelling designs for various needs.
+### Project 3: Audiovisual Innovations
+- Description: Innovating new ways to simplify and approach tech for various needs.
 - Link: [Learn More](link-to-project-3)
+
+---
+
+## Services
+
+### Production
+- Professional music production tailored to your needs.
+
+### Livestream Setup & Reconfiguration
+- Expert setup and reconfiguration of livestreams to ensure seamless broadcasts.
+
+### Tech Method Refinement
+- Innovative approaches to simplify and enhance your tech methods.
 
 ---
 
