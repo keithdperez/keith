@@ -1,6 +1,6 @@
 ---
 title: Monica Gonzalez Wedding
-publish: false
+publish: true
 tags:
   - thencreate
 ---
