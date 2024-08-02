@@ -9,8 +9,8 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-02 Areas/The Table
-03 Resources
-07 Archives
-99 Meta
+content/02 Areas/The Table
+content/03 Resources
+content/07 Archives
+content/99 Meta
 
