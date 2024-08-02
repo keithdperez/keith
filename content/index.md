@@ -1,7 +1,10 @@
 ---
+id: index
+aliases: []
+tags: []
 title: Hey there! 👋 My name is Keith Perez.
 ---
----
+
 ## Hi, I'm Keith!
 
 ![[Profile Pic.jpeg]]
