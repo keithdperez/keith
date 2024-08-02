@@ -1,7 +1,8 @@
 ---
-title: 20240708 - Five Ps
+title: Father's Day at The Table
 publish: false
 tags:
+  - thetable
 ---
 # SUMMARY
 A church service led by Dave, featuring worship songs, a sermon on spiritual warfare, and reflections on Father's Day.

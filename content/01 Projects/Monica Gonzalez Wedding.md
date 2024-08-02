@@ -1,6 +1,6 @@
 ---
 id: Monica Gonzalez Wedding
-aliases: []
+aliases: 
 tags:
   - thencreate
 publish: false
