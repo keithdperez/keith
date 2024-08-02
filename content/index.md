@@ -1,8 +1,7 @@
 ---
-id: index
-aliases: []
-tags: []
 title: Hey there! 👋 My name is Keith Perez.
+aliases:
+  - home
 ---
 
 ## Hi, I'm Keith!
