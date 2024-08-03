@@ -1,19 +1,14 @@
 ---
-id: index
-aliases: []
-tags: []
+title: Hey 👋 My name is Keith Perez.
 description: Sharing my thoughts, projects, and passions.
 publish: true
-title: Welcome to My Corner of the Web
 ---
-
-# Hi, I'm Keith 👋
 
 Welcome to my digital space where I share my thoughts, projects, and the things that matter to me. I'm a musician, tech enthusiast, and a passionate follower of Christ. Here, you'll find a collection of my musings, resources, and the work I do with my church and business.
 
 ---
 
-## 🌟 About Me
+## About Me
 
 - 🎶 **Musician**: I lead worship at my church and produce music. 
 - 💻 **Techie**: I'm into graphic design, tech advancements, and all things Apple.
@@ -22,7 +17,7 @@ Welcome to my digital space where I share my thoughts, projects, and the things 
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - **then, create.**: Providing event tech support and innovative tech solutions.
 - **Church Projects**: Enhancing our church's digital presence and livestream setup.
@@ -30,7 +25,7 @@ Welcome to my digital space where I share my thoughts, projects, and the things 
 
 ---
 
-## 📝 Latest Posts
+## Latest Posts
 
 - [The Power of Humility](#)
 - [Exploring New Tech Tools](#)
@@ -38,7 +33,7 @@ Welcome to my digital space where I share my thoughts, projects, and the things 
 
 ---
 
-## 💌 Let's Connect
+## 💌  Let's Connect
 
 Feel free to reach out if you'd like to chat, collaborate, or just say hi. You can find me on [Twitter](#) and [LinkedIn](#), or send me an email at [your-email@example.com](mailto:your-email@example.com).
 

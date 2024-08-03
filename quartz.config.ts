@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Keith Perez",
+    pageTitle: "keithdperez.com",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,32 +22,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "acumin-pro-condensed",
-        body: "Overpass Mono",
-        code: "IBM Plex Mono",
+        header: "Vollkorn",
+        body: "Vollkorn",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#eff1f5",
+          lightgray: "#ccd0da",
+          gray: "#40a02b",
+          darkgray: "#5c5f77",
+          dark: "#7287fd",
+          secondary: "#1e66f5",
+          tertiary: "#04a5e5",
+          highlight: "#ccd0da",
+          textHighlight: "#dc8a78",
         },
         darkMode: {
           light: "#1e1e2e",
-          lightgray: "#393639",
-          gray: "#6c7086",
+          lightgray: "#313244",
+          gray: "#a6e3a1",
           darkgray: "#cdd6f4",
-          dark: "#f5e0dc",
+          dark: "#b4befe",
           secondary: "#89b4fa",
           tertiary: "#89dceb",
-          highlight: "rgba(147, 153, 178, 0.15)",
-          textHighlight: "#b3aa0288",
+          highlight: "#313244",
+          textHighlight: "#f5e0dc",
         },
       },
     },
@@ -60,7 +60,7 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
+          light: "catppuccin-latte",
           dark: "catppuccin-mocha",
         },
         keepBackground: false,
