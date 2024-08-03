@@ -1,7 +1,5 @@
 ---
-title: Hey there! 👋 My name is Keith Perez.
-aliases:
-  - home
+title: Hey there! My name is Keith Perez.
 ---
 
 ## Hi, I'm Keith!
