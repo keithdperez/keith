@@ -1,58 +1,44 @@
 ---
-title: Hey there! My name is Keith Perez.
+id: index
+aliases: []
+tags: []
+description: Sharing my thoughts, projects, and passions.
+publish: true
+title: Welcome to My Corner of the Web
 ---
 
-## Hi, I'm Keith!
+# Hi, I'm Keith 👋
 
-![[Profile Pic.jpeg]]
-
-I'm a versatile and talented musician, actively involved in music production, graphic design, and exploring tech advancements. As the audiovisual design lead at ThenCreate, I specialize in setting up and reconfiguring livestreams, refining tech methods, and innovating new ways to simplify and approach technology. My mission is to enhance the financial success and operational efficiency of my business while serving others extensively.
-
----
-
-## About Me
-
-I lead worship at my church, recognized for my versatility and talent. My wife, Julianna, and I prioritize spiritual and emotional growth. We love serving our community and exploring new ways to connect and grow together.
+Welcome to my digital space where I share my thoughts, projects, and the things that matter to me. I'm a musician, tech enthusiast, and a passionate follower of Christ. Here, you'll find a collection of my musings, resources, and the work I do with my church and business.
 
 ---
 
-## Projects
+## 🌟 About Me
 
-### Project 1: Event Tech Support
-- Description: Providing top-notch tech support for events.
-- Link: [Learn More](link-to-project-1)
-
-### Project 2: Worship Leadership
-- Description: Leading worship services and training new worship leaders.
-- Link: [Learn More](link-to-project-2)
-
-### Project 3: Audiovisual Innovations
-- Description: Innovating new ways to simplify and approach tech for various needs.
-- Link: [Learn More](link-to-project-3)
+- 🎶 **Musician**: I lead worship at my church and produce music. 
+- 💻 **Techie**: I'm into graphic design, tech advancements, and all things Apple.
+- 🌿 **Nature Lover**: I find peace in nature, especially around water.
+- ✝️  **Faith**: My faith is a big part of my life, guiding my actions and decisions.
 
 ---
 
-## Services
+## 🚀 What I'm Working On
 
-### Production
-- Professional music production tailored to your needs.
-
-### Livestream Setup & Reconfiguration
-- Expert setup and reconfiguration of livestreams to ensure seamless broadcasts.
-
-### Tech Method Refinement
-- Innovative approaches to simplify and enhance your tech methods.
+- **then, create.**: Providing event tech support and innovative tech solutions.
+- **Church Projects**: Enhancing our church's digital presence and livestream setup.
+- **Personal Blog**: Sharing insights and experiences on life, faith, and technology.
 
 ---
 
-## Get In Touch
+## 📝 Latest Posts
 
-Feel free to reach out if you have any questions or if you want to collaborate on a project!
-
-- **Email:** [keith@example.com](mailto:keith@example.com)
-- **Twitter:** [@keith](https://twitter.com/keith)
-- **LinkedIn:** [Keith's LinkedIn](https://www.linkedin.com/in/keith)
+- [The Power of Humility](#)
+- [Exploring New Tech Tools](#)
+- [Living a Life of Service](#)
 
 ---
 
-© 2024 Keith. All rights reserved.
+## 💌 Let's Connect
+
+Feel free to reach out if you'd like to chat, collaborate, or just say hi. You can find me on [Twitter](#) and [LinkedIn](#), or send me an email at [your-email@example.com](mailto:your-email@example.com).
+
