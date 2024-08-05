@@ -261,6 +261,10 @@ a {
     }
     &[href^="http"]:not([href*="keithdperez.com"])::after {
         content: "\00A0\2197";
+        font-size: inherit; // Use the same font size as the surrounding text
+        line-height: inherit; // Use the same line height as the surrounding text
+        vertical-align: middle; // Align with text
+        display: inline; // Keep it inline with the text
     }
 }
 #explorer-content a::after {
