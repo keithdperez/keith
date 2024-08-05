@@ -4,7 +4,7 @@ aliases:
 tags: 
 description: Sharing my thoughts, projects, and passions.
 publish: true
-title: Welcome!
+title: Welcome
 ---
 
 I'm Keith. Here, I share my thoughts, projects, and discoveries on various topics that fascinate me. This space is a blend of personal reflections, tech explorations, and creative endeavors. Whether you're here to find inspiration, learn something new, or simply explore, I hope you find something that resonates with you.
