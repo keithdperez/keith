@@ -1,29 +1,32 @@
 ---
 id: index
-aliases: []
-tags: []
+aliases: 
+tags: 
 description: Sharing my thoughts, projects, and passions.
 publish: true
-title: Hey 👋 My name is Keith Perez.
+title: Welcome!
 ---
 
-Welcome to my digital space where I share my thoughts, projects, and the things that matter to me. I'm a musician, tech enthusiast, and a passionate follower of Christ. Here, you'll find a collection of my musings, resources, and the work I do with my church and business.
-
----
+I'm Keith. Here, I share my thoughts, projects, and discoveries on various topics that fascinate me. This space is a blend of personal reflections, tech explorations, and creative endeavors. Whether you're here to find inspiration, learn something new, or simply explore, I hope you find something that resonates with you.
 
 ## About Me
 
-- 🎶 **Musician**: I lead worship at my church and produce music. 
-- 💻 **Techie**: I'm into graphic design, tech advancements, and all things Apple.
-- 🌿 **Nature Lover**: I find peace in nature, especially around water.
-- ✝️  **Faith**: My faith is a big part of my life, guiding my actions and decisions.
+I'm passionate about **music production**, **graphic design**, and the ever-evolving world of **technology**. I love creating with tools like [Ableton](https://www.ableton.com/) and [Photoshop](https://www.adobe.com/products/photoshop.html). My journey is all about exploring new horizons and pushing the boundaries of what's possible.
 
----
+## What You'll Find Here
 
-## What I'm Working On
+- **Personal Reflections**: Thoughts on life, spirituality, and personal growth.
+- **Tech Insights**: Tips and tricks for staying productive and leveraging the latest tech tools.
+- **Creative Projects**: A showcase of my work in music, design, and beyond.
 
-- **then, create.**: Providing event tech support and innovative tech solutions.
-- **Church Projects**: Enhancing our church's digital presence and livestream setup.
-- **Personal Blog**: Sharing insights and experiences on life, faith, and technology.
+## Join the Conversation
 
----
+Feel free to dive into the content, leave comments, or reach out if something sparks your interest. I'm always excited to connect with like-minded individuals and share insights.
+
+### Get Started
+
+- [Blog](https://yourdomain.com/blog)
+- [Projects](https://yourdomain.com/projects)
+- [About Me](https://yourdomain.com/about)
+
+Let's embark on this journey together and explore the wonders of creativity and technology.
