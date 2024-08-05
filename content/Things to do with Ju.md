@@ -1,4 +1,4 @@
 - stay overnight at the [KOA](https://koa.com/)
 - Social hour at [Ramsey's Kitchen](https://www.gordonramsayrestaurants.com/en/us/ramsays-kitchen/menus/naperville)
 - Pick flowers at [The Wildflower Farm](https://wildflowerupick.com/)
-- 
+- Go to Gilbert Park in Naperville - at the pavillion 
