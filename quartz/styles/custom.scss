@@ -259,7 +259,7 @@ a {
         padding: 0 0.125em 0.0625em;
         border-radius: var(--r3);
     }
-    &[href^="http"]:not([href*="pmcf.xyz"])::after {
+    &[href^="http"]:not([href*="keithdperez.com"])::after {
         content: "\00A0\2197";
     }
 }
